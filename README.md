@@ -43,7 +43,7 @@
 
 ![菜餚22](https://aipinhsuan.github.io/cook/S__17326114.jpg)
 
-![菜餚23](https://aipinhsuan.github.io/cook/S__17326115.jpg)
+![菜餚23](https://aipinhsuan.github.io/cook/S__17326150.jpg)
 
 ![菜餚24](https://aipinhsuan.github.io/cook/S__17326116.jpg)
 
@@ -66,5 +66,3 @@
 ![菜餚33](https://aipinhsuan.github.io/cook/S__17326144.jpg)
 
 ![菜餚34](https://aipinhsuan.github.io/cook/S__17326149.jpg)
-
-![菜餚35](https://aipinhsuan.github.io/cook/S__17326150.jpg)
